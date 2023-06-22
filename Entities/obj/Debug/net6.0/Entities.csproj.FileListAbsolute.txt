@@ -1,0 +1,12 @@
+D:\VS CODE\SimpleRegisterApp\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\VS CODE\SimpleRegisterApp\Entities\bin\Debug\net6.0\Entities.dll
+D:\VS CODE\SimpleRegisterApp\Entities\bin\Debug\net6.0\Entities.pdb
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.dll
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\Entities.pdb
+D:\VS CODE\SimpleRegisterApp\Entities\obj\Debug\net6.0\ref\Entities.dll
